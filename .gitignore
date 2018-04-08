@@ -1,0 +1,15 @@
+.idea/
+c_utree_boost/result/*
+c_utree_boost/training_tempt_out_dir/*
+cartpole-v0-r2-record
+cartpole-v0-save-r2.h5
+cartpole-v0-save-r3.h5
+cartpole-v0-save.h5
+cartpole_record_dataset.csv
+cartpole_testing_data.csv
+cartpole_training_data.csv
+record_training_observations.csv
+save_all_transition/*
+target-cartpole-v0-save-r2.h5
+target-cartpole-v0-save-r3.h5
+
